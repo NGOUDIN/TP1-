@@ -1,0 +1,6 @@
+### application.bat - 2018 - GOUDIN N ###
+version = "2"
+build_hour = "11H00"
+
+echo "Build ${build_16h}"
+echo "version ${2}"
