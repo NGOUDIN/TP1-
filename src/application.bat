@@ -1,6 +1,6 @@
 ### application.bat - 2018 - N GOUDIN ###
 
-echo "version 1.1"
+echo "version 1.2"
 
 echo "Copyright company - 2018"
 
